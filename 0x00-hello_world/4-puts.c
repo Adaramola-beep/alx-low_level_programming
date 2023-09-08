@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * main - This is the function that leads in c
- * return:0 (done)
+ * return:0(success)
  */
 int main(void)
 {
